@@ -1,0 +1,27 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "Heroku"
+  ],
+  "author": "J_Kahuha",
+  "license": "MIT",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xavirjk/eSample_express"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
